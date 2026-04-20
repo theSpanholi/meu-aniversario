@@ -1,5 +1,5 @@
 const dia = 21;
-const mes = 6; // dezembro (0-11)
+const mes = 5; // dezembro (0-11)
 
 function getProximoAniversario() {
     const hoje = new Date();
