@@ -1,0 +1,22 @@
+{
+  "name": "projeto-meu-aniversario",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "gulp": "^5.0.1",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
